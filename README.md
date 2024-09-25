@@ -30,7 +30,7 @@ This graph shows the total revenue based on the dates payments were received. It
 ![Total Revenue by Payment Date](https://github.com/Serayyyy/tableau-project/blob/main/Total%20Revenue%20by%20Payment%20Date.png)
 
 ## Visualization Link
-[My Tableau Public Project](https://public.tableau.com/app/profile/seray.barut/viz/dev-2-DEV6/Dashboard1?publish=yes)
+[My Tableau Public Project](https://public.tableau.com/authoring/GraphsandVisualizationsRelatedtoFinancialData/Dashboard1#2)
 
 ## Contact
 Feel free to reach out for any feedback or questions.
