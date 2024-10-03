@@ -17,6 +17,8 @@ The Financial Data project aims to deliver a comprehensive analysis of key finan
 - **Total Revenue by Payment Date:** Aids in effectively managing cash flow.  
   [View Image](https://github.com/Serayyyy/tableau-project/raw/main/Total%20Revenue%20by%20Payment%20Date.png)
 
+By analyzing these components, the project aims to provide stakeholders with a clear understanding of the financial landscape, identify trends, and inform strategic decisions.
+
 ## Objectives
 
 By systematically analyzing these metrics, we aim to:
@@ -26,8 +28,9 @@ By systematically analyzing these metrics, we aim to:
 
 The project will leverage data visualization techniques to present findings clearly, enabling stakeholders to make informed decisions based on real-time financial information.
 
-## Key Metrics
+## Tableau Dashboard
 
+You can access the Tableau dashboard for visual insights [View Image](https://public.tableau.com/app/profile/seray.barut/viz/GraphsandVisualizationsRelatedtoFinancialData/Dashboard1).
 - **Total Income by Month:** This metric facilitates tracking income fluctuations over time.
 
 - **New Monthly Recurring Revenue (MRR):** This metric provides valuable insights into the business's capacity to generate consistent, recurring revenue.
